@@ -7,8 +7,15 @@
     "typescript": "^5.7.2"
   },
   "scripts": {
-    "build": "tsc",
-    "start": "node dist/scraper.js"
-  },
-  "type": "module"
+  "build": "tsc",
+  "start": "node dist/scraper.js"
+},
+  "type": "module",
+  "name": "twitter-trends-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
